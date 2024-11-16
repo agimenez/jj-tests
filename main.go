@@ -8,7 +8,6 @@ import "fmt"
 // testing test
 func main() {
 	p("Hello World!")
-	p("Goodbye world!")
 }
 
 // a function that prints a message
