@@ -5,6 +5,6 @@ import "fmt"
 
 // testing test
 func main() {
-	var str = "bleh"
-	fmt.Println("vim-go")
+	fmt.Println("Hello World!")
+	fmt.Println("Goodbye, world!")
 }
