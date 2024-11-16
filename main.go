@@ -7,14 +7,11 @@ import "fmt"
 
 // testing test
 func main() {
-	printHello()
-	printGoodBye()
+	p("Hello World!")
+	p("Goodbye world!")
 }
 
-func printHello() {
-	fmt.Println("Hello World!")
-}
-
-func printGoodBye() {
-	fmt.Println("Goodbye World!")
+// a function that prints a message
+func p(s string) {
+	fmt.Println(s)
 }
