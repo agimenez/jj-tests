@@ -1,3 +1,4 @@
+// Hello world program
 package main
 
 import "fmt"
